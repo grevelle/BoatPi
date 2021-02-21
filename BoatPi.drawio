@@ -1,14 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T20:12:18.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="7MuiGv51fJCRtzlXD3PK" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T20:22:20.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Co89xNL_qa7Csv3J7dyd" version="14.4.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="1234" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="994" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-10" value="NMEA 0183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FAWa9mQ0IKIFKmXM4P3P-1" target="FAWa9mQ0IKIFKmXM4P3P-7">
+        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-26" value="NMEA 0183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FAWa9mQ0IKIFKmXM4P3P-1" target="FAWa9mQ0IKIFKmXM4P3P-7">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="130" y="45" />
-              <mxPoint x="130" y="180" />
+              <mxPoint x="150" y="45" />
+              <mxPoint x="150" y="165" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -19,39 +20,45 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="110" y="165" />
-              <mxPoint x="110" y="285" />
+              <mxPoint x="110" y="287" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FAWa9mQ0IKIFKmXM4P3P-2" value="GPS&lt;br&gt;NMEA 2000" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_1;" vertex="1" parent="1">
           <mxGeometry x="30" y="140" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-12" value="NMEA 2000" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FAWa9mQ0IKIFKmXM4P3P-3" target="FAWa9mQ0IKIFKmXM4P3P-6">
+        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-25" value="NMEA 2000" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FAWa9mQ0IKIFKmXM4P3P-3" target="FAWa9mQ0IKIFKmXM4P3P-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FAWa9mQ0IKIFKmXM4P3P-3" value="Depth&lt;br&gt;NMEA 2000" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="260" width="40" height="50" as="geometry" />
+          <mxGeometry x="30" y="262" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FAWa9mQ0IKIFKmXM4P3P-4" value="Tablet" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad7inch;strokeColor=#c0c0c0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="120" width="70" height="110" as="geometry" />
+          <mxGeometry x="590" y="110" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FAWa9mQ0IKIFKmXM4P3P-17" value="NMEA 0183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FAWa9mQ0IKIFKmXM4P3P-7" target="FAWa9mQ0IKIFKmXM4P3P-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-22" value="" style="group;strokeColor=#7D7D7D;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="228" y="20" width="122" height="288" as="geometry" />
+        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-22" value="" style="group;strokeColor=#7D7D7D;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="10" width="320" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-5" value="Raspberry Pi" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/272_Raspberry_Pi_logo-128.png" vertex="1" parent="FAWa9mQ0IKIFKmXM4P3P-22">
-          <mxGeometry x="23" width="78" height="78" as="geometry" />
+        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-5" value="Raspberry Pi" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/272_Raspberry_Pi_logo-128.png" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-6" value="NMEA 2000 -&amp;gt;&lt;br&gt;NMEA 0183" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.dac;" vertex="1" parent="FAWa9mQ0IKIFKmXM4P3P-22">
-          <mxGeometry y="242" width="70" height="46" as="geometry" />
+        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-6" value="NMEA 2000 -&amp;gt;&lt;br&gt;Signal K" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.dac;" vertex="1" parent="1">
+          <mxGeometry x="220" y="264" width="70" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-7" value="WiFi Broadcast" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_1;" vertex="1" parent="FAWa9mQ0IKIFKmXM4P3P-22">
-          <mxGeometry x="82" y="130" width="40" height="50" as="geometry" />
+        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-7" value="WiFi Broadcast" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-18" value="NMEA 0183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FAWa9mQ0IKIFKmXM4P3P-22" source="FAWa9mQ0IKIFKmXM4P3P-6" target="FAWa9mQ0IKIFKmXM4P3P-7">
-          <mxGeometry x="220" y="80" as="geometry" />
+        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-18" value="Signal K" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FAWa9mQ0IKIFKmXM4P3P-6" target="FAWa9mQ0IKIFKmXM4P3P-23">
+          <mxGeometry x="448" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FAWa9mQ0IKIFKmXM4P3P-23" target="FAWa9mQ0IKIFKmXM4P3P-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAWa9mQ0IKIFKmXM4P3P-23" value="Signal K -&amp;gt;&lt;br&gt;NMEA 0183" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.dac;" vertex="1" parent="1">
+          <mxGeometry x="360" y="264" width="70" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
